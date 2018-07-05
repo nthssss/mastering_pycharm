@@ -1,5 +1,4 @@
-# Getting the Right Look
-
+Getting the Right Look
 ---
 > "Simplicity is the ultimate sophistication."– Leonardo da Vinci
 I fell in love with Python for its elegance. I love how there are no semicolons, how

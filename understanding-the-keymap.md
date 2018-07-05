@@ -1,4 +1,4 @@
-#Understanding the Keymap
+Understanding the Keymap
 ---
 The keymap is one of the most powerful features that PyCharm has to offer. It allows
 you to set your keyboard shortcuts and find the keyboard shortcuts you've seen
