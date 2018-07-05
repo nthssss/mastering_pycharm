@@ -1,6 +1,6 @@
 Getting the Right Look
 ---
-_"Simplicity is the ultimate sophistication."– Leonardo da Vinci_
+> _"Simplicity is the ultimate sophistication."– Leonardo da Vinci_
 
 I fell in love with Python for its elegance. I love how there are no semicolons, how
 you can make a block through a simple indentation, how you can make multiline

@@ -1,6 +1,6 @@
 File Templates and Snippets
 ---
-_"Are we there yet?"– Everyone, including you_
+> _"Are we there yet?"– Everyone, including you_
 
 Coding is a ton of fun, but sometimes, it can be rather repetitive. Snippets (live
 templates) in PyCharm help you do away with a lot of the receptive parts. However,
@@ -10,6 +10,6 @@ code written for you. You're already using file templates in PyCharm if you have
 changed its default settings. This chapter is all about coding speed, so hold on to
 your hats!
 In this chapter, we are going to take a look at:
-•  File templates
-•  Snippets (live templates)
-•  Surround templates
+- File templates
+- Snippets (live templates)
+- Surround templates

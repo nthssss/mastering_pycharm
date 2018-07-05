@@ -1,6 +1,7 @@
 Debugging
 ---
-_"There is no freedom quite like the freedom of being constantly underestimated."– Scott Lynch_
+> _"There is no freedom quite like the freedom of being constantly underestimated."– Scott Lynch_
+
 When I first started programming, I used  print statements. Having to write this
 book, I took a look at some of my earliest code samples, and it turns out that most
 of it was commented out  print statements used for checking the value of variables.

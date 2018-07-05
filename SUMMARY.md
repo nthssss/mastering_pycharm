@@ -9,4 +9,7 @@
 * [Debugging](debugging.md)
 * [The PyCharm Ecosystem](the-pycharm-ecosystem.md)
 * [File Templates and Snippets](file-templates-and-snippets.md)
+* [Version Control Integration](version-control-integration.md)
+* [HTML and JavaScript Tools](html-and-javascript-tools.md)
+* [Web Development with PyCharm](web-development-with-pycharm.md)
 
