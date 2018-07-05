@@ -8,4 +8,5 @@
 * [Interpreters and Consoles](interpreters-and-consoles.md)
 * [Debugging](debugging.md)
 * [The PyCharm Ecosystem](the-pycharm-ecosystem.md)
+* [File Templates and Snippets](file-templates-and-snippets.md)
 

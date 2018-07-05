@@ -1,8 +1,10 @@
 The PyCharm Ecosystem
 ---
-_"Look well into thyself; there is a source of strength which will always spring up if
+>_"Look well into thyself; there is a source of strength which will always spring up if
 thou wilt always look there."
 – Marcus Aurelius Antoninus_
+
+
 This chapter dives into the inner workings of PyCharm. While having a little to do
 with PyCharm usage, it has everything to do with how PyCharm works, where to
 find help and report issues as well as the plugin ecosystem.
