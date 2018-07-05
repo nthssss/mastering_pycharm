@@ -9,6 +9,11 @@
 * [Debugging](debugging.md)
   * [Running, debugging, and setting breakpoints](debugging/running-debugging-and-setting-breakpoints.md)
   * [Debugging workflow](debugging/debugging-workflow.md)
+  * [Dealing with threads and processes](debugging/dealing-with-threads-and-processes.md)
+  * Debugging from the console
+  * Attach to Process…
+  * Profiling
+  * Summary
 * [The PyCharm Ecosystem](the-pycharm-ecosystem.md)
 * [File Templates and Snippets](file-templates-and-snippets.md)
 * [Version Control Integration](version-control-integration.md)
