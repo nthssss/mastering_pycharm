@@ -35,3 +35,4 @@ is  None . If this condition is true, this will be logged to the console, and so
 expression. In this case, it will simply print the string.
 You can of course toggle all the breakpoints in debug mode as well:
 ![](/assets/0608.png)
+This will render your line breakpoints moot.
