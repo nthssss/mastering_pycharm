@@ -18,3 +18,20 @@ of buttons:
 This is the View Breakpoints button. This allows you to see different types of
 breakpoints that are available to you:
 ![](/assets/0604.png)
+The breakpoint we set is a line breakpoint, but by default, in debug mode, program
+execution will suspend when you get an exception. You can actually disable this, but
+this only makes sense when you're looking for certain exceptions. Say, you only want
+to catch  _TypeError_ exceptions:
+![](/assets/0605.png)
+You add  TypeError to your list of exceptions; you can also add exceptions that are
+only available in your project. So, with that added, we now have:
+![](/assets/0606.png)
+Unfortunately, you do not have the same fine-grained control as you do with line
+breakpoints, where you can evaluate expressions to pause execution. But, it still
+allows you to narrow your focus on certain exception types:
+![](/assets/0607.png)
+In the preceding example, the breakpoint will only execute if the  Person object
+is  None . If this condition is true, this will be logged to the console, and so will the
+expression. In this case, it will simply print the string.
+You can of course toggle all the breakpoints in debug mode as well:
+![](/assets/0608.png)
