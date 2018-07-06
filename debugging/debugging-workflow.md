@@ -44,3 +44,15 @@ with db_session:
 
 commit()
 ```
+I ran this fine in debug mode, and got an exception in the console, saying that it was
+a  MappingError , so I looked at the file and found out that the script did not bind to
+a database before generating mappings, so that was easy enough to fix— it needed
+to bind before generating mappings. But then came another problem, and that
+was  _TypeError_ :
+![](/assets/0609.png)
+So, it's saying that we have  TypeError , and that it was expecting Unicode, but for
+what? This is where frames come in handy. Frames, located on the left-hand side
+of the debug menu, are like layers in an application. Frames showcase this callback
+sequence (or a function call stack), letting you jump between the files where the
+problem was caused.
+![](/assets/0610.png)
