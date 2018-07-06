@@ -14,19 +14,19 @@ import random
 from pony.orm import db_session, commit, Database, Required
 db = Database()
 class Person(db.Entity):
-name = Required(str)
-age = Required(int)
+    name = Required(str)
+    age = Required(int)
 vowels = 'aeiou'
 consonants = str(letter for letter in string.ascii_lowercase if letter
 not in vowels)
 def gen():
-return random.choice(consonants) + random.choice(vowels)
+    return random.choice(consonants) + random.choice(vowels)
 names = [(gen() for _ in range(random.randint(3, 4))) for i in
 range(100)]
 db.bind('sqlite', 'data.sqlite', create_db=True)
 db.generate_mapping(create_tables=True)
 with db_session:
-for name in names:
-Person(name=name, age=random.randint(5, 21))
+    for name in names:
+        Person(name=name, age=random.randint(5, 21))
 commit()
 ```
