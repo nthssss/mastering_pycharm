@@ -13,7 +13,7 @@
   * Debugging from the console
   * Attach to Process…
   * Profiling
-  * Summary
+  * [Summary](debugging/summary.md)
 * [The PyCharm Ecosystem](the-pycharm-ecosystem.md)
 * [File Templates and Snippets](file-templates-and-snippets.md)
 * [Version Control Integration](version-control-integration.md)
