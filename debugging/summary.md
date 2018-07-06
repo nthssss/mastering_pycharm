@@ -1,5 +1,6 @@
 Summary
 ---
+
 I hope I was able to convince you of the value in PyCharm's debugging toolset.
 We looked at a lot of the tools that I find useful in my everyday work . We covered
 debugging tools and how we can use them in our own workflow.
