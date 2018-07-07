@@ -86,3 +86,4 @@ this is all about and also see what name is all about:
 So, if we hover over name, we can see that it's a  generator object, but that doesn't
 sound right. I mean, a person's name isn't supposed to be a generator. Name comes
 from names, and let's take a look at what names is made up of:
+
