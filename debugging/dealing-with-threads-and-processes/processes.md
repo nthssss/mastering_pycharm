@@ -23,3 +23,4 @@ Process(target=download, args=(u,)).start()
 ```
 If we try to debug this by setting the breakpoint at the same place, we get process IDs
 instead of thread numbers since we're creating processes.
+![](/assets/0617.png)
