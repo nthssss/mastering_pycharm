@@ -10,6 +10,7 @@
   * [Running, debugging, and setting breakpoints](debugging/running-debugging-and-setting-breakpoints.md)
   * [Debugging workflow](debugging/debugging-workflow.md)
   * [Dealing with threads and processes](debugging/dealing-with-threads-and-processes.md)
+    * [Processes](debugging/dealing-with-threads-and-processes/processes.md)
   * [Debugging from the console](debugging/debugging-from-the-console.md)
   * [Attach to Process…](debugging/attach-to-process.md)
   * [Profiling](debugging/profiling.md)
